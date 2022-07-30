@@ -6,7 +6,6 @@ const Properties = () => {
             <h2 className=' text-3xl font-medium'>Search Properties To Rent</h2>
             <select class="select max-w-xs select-bordered">
         <option disabled selected>Search With Searchbar</option>
-         <option>Search</option> 
        </select>
         </div>
     );
