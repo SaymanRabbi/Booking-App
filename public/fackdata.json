@@ -1,0 +1,39 @@
+[
+
+    {
+        "id": "6249e7206b27b284c0d9a066",
+        "index": 0,
+        "name": "Palm Harbor",
+        "location": "2699,Green Vally,Highland,Fl",
+        "price":"3000",
+        "Picture":"https://images.unsplash.com/photo-1653974123446-3eeff06fb6fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGhvdGVsJTIwaW1hZ2V8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "state":"Florida",
+        "bades":"3 Bades",
+        "bathroom":"2 Bathrooms",
+        "area": "5 X 7"
+      },
+      {
+        "id": "6249e720c531c12c8ddee906",
+        "index": 1,
+        "name": "Beverly Springfield",
+        "location": "2821,lake sevilla,Palam Harbor,Tx",
+        "price":"4000",
+        "Picture":"https://images.unsplash.com/photo-1653972233739-667468bbd5a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8aG90ZWwlMjBpbWFnZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "state":"Texas",
+        "bades":"4 Bades",
+        "bathroom":"2 Bathrooms",
+        "area": "6 X 7"
+      },
+      {
+        "id": "6249e720cb04c079350ddee5",
+        "index": 2,
+        "name": "Faulkner Ave",
+        "location": "909 Woodland,Michigan,in",
+        "price":"7000",
+        "Picture":"https://images.unsplash.com/photo-1653974124184-d273748e42a0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1032&q=80",
+        "state":"India",
+        "bades":"4 Bades",
+        "bathroom":"3 Bathrooms",
+        "area": "8 X 10"
+      }
+]

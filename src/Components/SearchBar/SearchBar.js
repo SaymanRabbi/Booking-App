@@ -3,7 +3,7 @@ import './SearchBar.css'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faLocation, faCalendar, faMoneyBill, faHouse } from '@fortawesome/free-solid-svg-icons'
 import { DateRange} from 'react-date-range';
-import {format} from 'date-fns';
+import {format, toDate} from 'date-fns';
 const SearchBar = () => {
     const [isopen,setIsopen] = useState(false);
     const [date, setDate] = useState([
