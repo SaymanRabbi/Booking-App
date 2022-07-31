@@ -10,7 +10,8 @@
         "state":"Florida",
         "bades":"3 Bades",
         "bathroom":"2 Bathrooms",
-        "area": "5 X 7"
+        "area": "5 X 7",
+        "type":"houses"
       },
       {
         "id": "6249e720c531c12c8ddee906",
@@ -22,7 +23,8 @@
         "state":"Texas",
         "bades":"4 Bades",
         "bathroom":"2 Bathrooms",
-        "area": "6 X 7"
+        "area": "6 X 7",
+        "type":"Resturent"
       },
       {
         "id": "6249e720cb04c079350ddee5",
@@ -34,6 +36,7 @@
         "state":"India",
         "bades":"4 Bades",
         "bathroom":"3 Bathrooms",
-        "area": "8 X 10"
+        "area": "8 X 10",
+        "type":"Hostel"
       }
 ]
