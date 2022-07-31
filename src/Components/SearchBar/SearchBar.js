@@ -24,7 +24,7 @@ const SearchBar = () => {
     const newDate = format(date[0]?.startDate,"MM/dd/yyyy")
     return (
         <>
-        <div className='flex px-20 justify-between items-center'>
+        <div className='grid md:grid-cols-4 grid-cols-2 px-20 justify-between items-center'>
             <div>
                 <h2 className='flex gap-2 items-center mb-2 font-bold'>
                     Location
